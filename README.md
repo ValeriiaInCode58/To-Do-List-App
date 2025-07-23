@@ -71,4 +71,4 @@ todo-app/
 
 ---
 
-Created by Valeriia Kolomiiets | Softserve Academy | 2025
+**Created by Valeriia Kolomiiets | Softserve Academy | 2025**
